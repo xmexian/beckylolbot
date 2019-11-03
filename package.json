@@ -1,0 +1,15 @@
+{
+  "name": "beckylol",
+  "version": "1.0.0",
+  "description": "Im am lill becky",
+  "main": "bot.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "author": "by xmexian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
